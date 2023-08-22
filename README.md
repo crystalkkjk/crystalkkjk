@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem vindo ao meu perfil ✨
 
-<!--
-**crystalkkjk/crystalkkjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Érica Czelusniak
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou no 1º ano do ensino médio
+- Utlizo esse site como ferramenta de estudo
+  
+### Você pode entrar em conato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ericaczelusniak@escola.pr.gov.br
+
+@eczelusniak_
+
+![](https://media.tenor.com/wjMMbmfAHC0AAAAC/straw-hat-pirates.gif)
